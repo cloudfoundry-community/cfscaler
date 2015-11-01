@@ -1,0 +1,9 @@
+{
+    "CloudController": {
+        "Api_host": "api.10.16.180.40.xip.io",
+        "Auth_host": "login.10.16.180.40.xip.io",
+        "Auth_user": "admin",
+        "Auth_pass": "admin"
+    },
+    "Nats": "nats://localhost:4222"
+}

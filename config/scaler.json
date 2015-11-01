@@ -1,0 +1,31 @@
+{
+    "PolicyDB": {
+        "Host": "localhost",
+        "Port": "3306",
+        "Database": "policydb",
+        "Username": "root",
+        "Password": "ruandengming"
+    },
+    "MetricDB": {
+        "Host": "localhost",
+        "Port": "3306",
+        "Database": "metricdb",
+        "Username": "root",
+        "Password": "ruandengming"
+    },
+    "HistoryDB": {
+        "Host": "localhost",
+        "Port": "3306",
+        "Database": "historydb",
+        "Username": "root",
+        "Password": "ruandengming"
+    },
+    "CloudController": {
+        "Api_host": "api.10.16.180.40.xip.io",
+        "Auth_host": "login.10.16.180.40.xip.io",
+        "Auth_user": "admin",
+        "Auth_pass": "admin"
+    },
+    "Logfile": "log/scaler.log",
+    "Duration": 10
+}

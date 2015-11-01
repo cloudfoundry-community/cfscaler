@@ -1,0 +1,24 @@
+{
+    "PolicyDB": {
+        "Host": "localhost",
+        "Port": "3306",
+        "Database": "policydb",
+        "Username": "root",
+        "Password": "ruandengming"
+    },
+    "MetricDB": {
+        "Host": "localhost",
+        "Port": "3306",
+        "Database": "metricdb",
+        "Username": "root",
+        "Password": "ruandengming"
+    },
+    "HistoryDB": {
+        "Host": "10.195.10.21",
+        "Port": "5524",
+        "Database": "ccdb",
+        "Username": "ccadmin",
+        "Password": "c1oudc0w"
+    },
+    "Port": "8080"
+}

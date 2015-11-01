@@ -1,0 +1,11 @@
+{
+    "DB": {
+        "Host": "localhost",
+        "Port": "3306",
+        "Database": "policydb",
+        "Username": "root",
+        "Password": "ruandengming"
+    },
+    "Duration": 10,
+    "Nats": "nats://localhost:4222"
+}

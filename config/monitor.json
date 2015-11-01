@@ -1,0 +1,8 @@
+{
+    "Port": "4567",
+    "Database": "metricdb",
+    "User": "root",
+    "Password": "ruandengming",
+    "AvgerHost": "localhost",
+    "AvgerPort": "1203"
+}

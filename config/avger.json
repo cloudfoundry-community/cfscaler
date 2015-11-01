@@ -1,0 +1,12 @@
+{
+    "MonitorHost": "0.0.0.0",
+    "MonitorPort": "1203",
+    "Nats": "nats://localhost:4222",
+    "MetricDB": {
+        "Host": "localhost",
+        "Port": "3306",
+        "Database": "metricdb",
+        "Username": "root",
+        "Password": "ruandengming"
+    }
+}
